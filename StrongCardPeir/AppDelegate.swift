@@ -3,7 +3,6 @@
 //  StrongCardPeir
 //
 //  Created by kudo koki on 2022/06/03.
-//
 
 import UIKit
 
